@@ -1,4 +1,4 @@
-# GOKU — Go Over Key Updates
+# GOKU — Get Only Key Updates
 
 Shows what you did on GitHub, Gmail, Slack, and Google Chat for each day in
 a date range — either as a terminal printout or in a local browser UI with
