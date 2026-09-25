@@ -1,0 +1,12 @@
+# Secrets — never commit these
+credentials.json
+token.json
+chat_token.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
